@@ -77,7 +77,7 @@ Mantenido por la comunidad. Contribuciones bienvenidas vía Pull Request.
 - **[Claude Code](https://claude.com/claude-code)** — CLI agéntico de Anthropic.
 - **[v0](https://v0.dev)** — Genera componentes UI de React desde texto.
 - **[Lovable](https://lovable.dev)** — Apps web completas desde prompts.
-- **[usage](https://github.com/aqua5230/usage)** — Herramienta de código abierto (MIT) para la barra de menú de macOS que muestra en tiempo real el consumo de cuota de Claude Code y Codex, sin llamadas a la API (solo lee archivos locales).
+- **[usage](https://github.com/aqua5230/usage)** — Herramienta de código abierto (AGPL-3.0) para la barra de menú de macOS y la bandeja del sistema de Windows que muestra en tiempo real el consumo de cuota de Claude Code, Codex y Antigravity, sin llamadas a la API de LLM.
 
 ---
 
