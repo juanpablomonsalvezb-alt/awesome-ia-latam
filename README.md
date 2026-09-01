@@ -72,6 +72,7 @@ Mantenido por la comunidad. Contribuciones bienvenidas vía Pull Request.
 - **[Reflect](https://reflect.app)** — Notas conectadas con IA.
 
 ### Programación
+- **[Agent Coordinator](https://github.com/alanhoff/agent-coordinator)** — Skill de Codex para organizar trabajo complejo en grafos acotados, con estado local versionado y reconciliación antes de reintentar. Incluye documentación en español; requiere Codex y Python 3.11 o posterior, y los agentes especialistas son opcionales.
 - **[Cursor](https://cursor.com)** — IDE con IA, el favorito de desarrolladores hoy.
 - **[GitHub Copilot](https://github.com/features/copilot)** — Asistente integrado en VS Code.
 - **[Claude Code](https://claude.com/claude-code)** — CLI agéntico de Anthropic.
