@@ -59,6 +59,7 @@ Mantenido por la comunidad. Contribuciones bienvenidas vía Pull Request.
 - **[Sora](https://sora.com)** — OpenAI, video de alta calidad.
 - **[Veo](https://deepmind.google/technologies/veo/)** — Google, integrado con Gemini.
 - **[Kling](https://klingai.com)** — Alternativa china con buena relación calidad/precio.
+- **[Vivify](https://vivify.video/realtime-face-swap)** — Intercambio de rostros, prueba de ropa y restilización en cámara en tiempo real (web o cámara virtual).
 
 ### Transcripción y audio
 - **[Otter.ai](https://otter.ai)** — Transcripción de reuniones con resumen automático.
